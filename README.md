@@ -10,4 +10,4 @@
 
 # 求解 TSP 的过程
 
-![gif]()
+![gif](https://github.com/wuyinwuxian/DSTA_TSP_python_version/blob/main/result.gif)
